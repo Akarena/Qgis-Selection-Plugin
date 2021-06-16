@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/attribut_select" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
